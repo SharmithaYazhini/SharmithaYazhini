@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SharmithaYazhini
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics and visualization tools like PowerBI and Tableau
 - 🌱 I’m currently pursuing my bachelors in Computer Science
 
 
