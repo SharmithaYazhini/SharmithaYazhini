@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SharmithaYazhini
-- 👀 I’m interested in data science, AI and visualization tools like PowerBI and Tableau
-- 🌱 I’m currently pursuing my bachelors in Computer Science
+- 👀 I’m interested in data science, AI, and visualization tools like PowerBI and Tableau
+- 🌱 I’m currently pursuing my master in Applied Data Science at Indiana University
 
 
 <!---
